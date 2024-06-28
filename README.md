@@ -18,7 +18,7 @@ Check out FRONTEND [LIVE DEMO](https://cool-tees-sd.netlify.app/) here!! Check o
 1. Git Clone
 
 ```bash
-git clone https://github.com/Karthi905968/SD-COOL_TEES
+git clone https://github.com/Karthi905968/SD-COOL-TEES.git
 ```
 
 2. Backend setting
